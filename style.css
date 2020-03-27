@@ -1,0 +1,58 @@
+     body{
+        font-family: 'Karla', sans-serif;
+        font-weight: 400,700;
+        background-color: #fff;
+     }
+
+     .container{
+         padding: 10%;
+     }
+
+    p.first-group,h3{
+        display: inline;
+    }
+
+    .btn{
+        background-color: hsl(71, 73%, 54%);
+    }
+    
+    .first-card{
+        padding: 4%;
+    }
+    .first-card-header{
+         padding-left: 1.5%;
+    }
+    .first-card-para{
+        width: 40%;
+        color:hsl(203, 17%, 79%);
+        padding-top: 1%;
+    }
+
+  
+    .ln-height{
+        line-height: .5;
+    }
+    .btn-lg{
+        width: 64%;
+        color:hsl(204, 43%, 93%);
+    }
+    .second-card{
+        padding: 5%;
+        background-color: hsl(179, 62%, 43%);
+        color:hsl(204, 43%, 93%);
+        line-height: 3;
+    }
+    .second-card-body{
+        padding-left: 0%;
+    }
+    .third-card{
+        background-color: hsl(179, 100%, 42%);
+        color:hsl(204, 43%, 93%);
+        padding: 5% 5% 3%;
+    }
+    .col-lg-6{
+        padding: 0%;
+    }
+    .col-lg-12{
+        padding: 0%;
+    }
